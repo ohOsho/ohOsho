@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @ohOsho
-- 👀 I’m interested in computer science concepts, such as machine learning, data structures and algorithms, as well as software development
-- 🌱 I’m currently learning all the applications where computer science can be used.
-- 💞️ I’m looking to collaborate on any open projects or creating any exciting projects (feel free to message me to collaberate)
-- 📫 How to reach me: LinkedIn would be great, search Oscar Oropeza
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm just a kid trying to enjoy life
+- 👋 Hi, my name is Oscar Oropeza
+- 👀 I’m interested in computer science concepts, such as Machine Learning, Data Structures and Algorithms, Networks, and Software Development
+- 🌱 I’m currently learning all the applications of computer science, as well as creating and understanding assignmenents of my classes.
+- 📫 How to reach me: LinkedIn would be great, https://www.linkedin.com/in/oscar-oropeza-1b136a300/
 
 <!---
 ohOsho/ohOsho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
